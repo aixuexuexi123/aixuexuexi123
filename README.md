@@ -1,4 +1,4 @@
-## 👋 Hi there, yzy. <sup>(or ByWu)</sup>
+## 👋 Hi there, I am yzy
 
 
 <div align="center">
@@ -10,10 +10,12 @@
 <h2 > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage"> About me</h2>
 <div> 
   <ul>
-    <li>🏦我是一名来自中国的后端工程师，主y语言是 Java，还请各位大佬多多指教！</li>
-    <li>📝 我个人比较喜欢分享，所以经常使用<a href="https://juejin.cn/user/128017175944557">稀土掘金</a>、<a href="https://www.yuque.com/zeovo-10k9s">语雀</a>等平台分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
-    <li>💻 本人是一名后端程序员，<•熟练掌握 Java 核心知识等，如集合、反射, 了解并发编程, 如(CAS、synchronized) 以及线程池、数据库连接池等和JVM(类加载机制, 垃圾回收), 具备良好的面向对象编程思想。
+    <li>🏦我是一名来自中国的后端工程师，主语言是 Java，还请各位大佬多多指教！</li>
+    <li>📝 我个人比较喜欢分享，所以经常使用<a href="https://juejin.cn/user/622757224935123">稀土掘金</a>、<a href="https://www.yuque.com/yuqueyonghu3pbfw8/hvcgpy">语雀</a>等平台分享一些自己学习过程中的收获,如果你感兴趣的话，可以关注一下。</li>
+    <li>💻 本人是一名后端程序员，
+        •
 
+•熟练掌握 Java 核心知识等，如集合、反射, 了解并发编程, 如(CAS、synchronized) 以及线程池、数据库连接池等和JVM(类加载机制, 垃圾回收), 具备良好的面向对象编程思想。
 
 •熟练运用多种设计模式，如(工厂、责任链、组合、策略、模板等) , 构建可复用代码结构。
 
